@@ -1,0 +1,70 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "wa_osd", "wa_osd", "{B8A0AE30-BEAB-4AAA-A54B-5A23E386590D}"
+	ProjectSection(WebsiteProperties) = preProject
+		SccProjectName = ""$/Front-Ends/Models/wa_osd", UXMJAAAA"
+		SccAuxPath = ""
+		SccLocalPath = "."
+		SccProvider = "MSSCCI:Microsoft Visual SourceSafe"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.1"
+		ProjectReferences = "{f92107c2-ac7e-45e2-a88f-ebb789d7f576}|escWebBase.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/wa_osd"
+		Debug.AspNetCompiler.PhysicalPath = "wa_osd\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\wa_osd\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/wa_osd"
+		Release.AspNetCompiler.PhysicalPath = "wa_osd\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\wa_osd\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "47030"
+		SlnRelativePath = "wa_osd\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseLibrary", "Base\BaseLibrary\BaseLibrary.csproj", "{F92107C2-AC7E-45E2-A88F-EBB789D7F576}"
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 3
+		SccLocalPath0 = .
+		SccWebProject1 = true
+		SccProjectUniqueName1 = wa_osd
+		SccProjectName1 = \u0022$/Front-Ends/Models/wa_osd\u0022,\u0020UXMJAAAA
+		SccLocalPath1 = C:\\Projects\\Front-Ends\\Models\\wa_osd
+		SccProjectEnlistmentChoice1 = 2
+		SccProjectUniqueName2 = Base\\BaseLibrary\\BaseLibrary.csproj
+		SccProjectName2 = \u0022$/Front-Ends/Models/Base/BaseLibrary\u0022,\u0020HOKEAAAA
+		SccLocalPath2 = Base\\BaseLibrary
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		ModelPresentation|Any CPU = ModelPresentation|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8A0AE30-BEAB-4AAA-A54B-5A23E386590D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8A0AE30-BEAB-4AAA-A54B-5A23E386590D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8A0AE30-BEAB-4AAA-A54B-5A23E386590D}.ModelPresentation|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8A0AE30-BEAB-4AAA-A54B-5A23E386590D}.ModelPresentation|Any CPU.Build.0 = Debug|Any CPU
+		{B8A0AE30-BEAB-4AAA-A54B-5A23E386590D}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8A0AE30-BEAB-4AAA-A54B-5A23E386590D}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{F92107C2-AC7E-45E2-A88F-EBB789D7F576}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F92107C2-AC7E-45E2-A88F-EBB789D7F576}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F92107C2-AC7E-45E2-A88F-EBB789D7F576}.ModelPresentation|Any CPU.ActiveCfg = ModelPresentation|Any CPU
+		{F92107C2-AC7E-45E2-A88F-EBB789D7F576}.ModelPresentation|Any CPU.Build.0 = ModelPresentation|Any CPU
+		{F92107C2-AC7E-45E2-A88F-EBB789D7F576}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F92107C2-AC7E-45E2-A88F-EBB789D7F576}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

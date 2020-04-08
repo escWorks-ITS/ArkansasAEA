@@ -1,0 +1,299 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SDCodeBase", "sd_esa\SDCodeBase\SDCodeBase.csproj", "{8710FD05-5227-4EF3-A326-60EA832F94EA}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "sd_esa", "sd_esa\sd_esa", "{AC39CDC8-A509-4EFA-A6D7-A969E6C47109}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "2.0"
+		Debug.AspNetCompiler.VirtualPath = "/sd_esa"
+		Debug.AspNetCompiler.PhysicalPath = "sd_esa\sd_esa\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\sd_esa\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/sd_esa"
+		Release.AspNetCompiler.PhysicalPath = "sd_esa\sd_esa\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\sd_esa\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "52276"
+	EndProjectSection
+	ProjectSection(ProjectDependencies) = postProject
+		{8710FD05-5227-4EF3-A326-60EA832F94EA} = {8710FD05-5227-4EF3-A326-60EA832F94EA}
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "sd_esa1", "sd_esa\sd_esa1", "{0A4E1C03-5778-42CC-A977-740EF83CAC28}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "2.0"
+		Debug.AspNetCompiler.VirtualPath = "/sd_esa1"
+		Debug.AspNetCompiler.PhysicalPath = "sd_esa\sd_esa1\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\sd_esa1\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/sd_esa1"
+		Release.AspNetCompiler.PhysicalPath = "sd_esa\sd_esa1\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\sd_esa1\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "52277"
+	EndProjectSection
+	ProjectSection(ProjectDependencies) = postProject
+		{8710FD05-5227-4EF3-A326-60EA832F94EA} = {8710FD05-5227-4EF3-A326-60EA832F94EA}
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "sd_esa2", "sd_esa\sd_esa2", "{68B955E3-EC7D-4E7E-9394-35A75AF9668C}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "2.0"
+		Debug.AspNetCompiler.VirtualPath = "/sd_esa2"
+		Debug.AspNetCompiler.PhysicalPath = "sd_esa\sd_esa2\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\sd_esa2\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/sd_esa2"
+		Release.AspNetCompiler.PhysicalPath = "sd_esa\sd_esa2\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\sd_esa2\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "52279"
+	EndProjectSection
+	ProjectSection(ProjectDependencies) = postProject
+		{8710FD05-5227-4EF3-A326-60EA832F94EA} = {8710FD05-5227-4EF3-A326-60EA832F94EA}
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "sd_esa3", "sd_esa\sd_esa3", "{A9D8D1DF-9D68-4AC3-A6C7-0250612CA2CF}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "2.0"
+		Debug.AspNetCompiler.VirtualPath = "/sd_esa3"
+		Debug.AspNetCompiler.PhysicalPath = "sd_esa\sd_esa3\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\sd_esa3\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/sd_esa3"
+		Release.AspNetCompiler.PhysicalPath = "sd_esa\sd_esa3\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\sd_esa3\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "52280"
+	EndProjectSection
+	ProjectSection(ProjectDependencies) = postProject
+		{8710FD05-5227-4EF3-A326-60EA832F94EA} = {8710FD05-5227-4EF3-A326-60EA832F94EA}
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "sd_esa4", "sd_esa\sd_esa4", "{BDE62509-C56C-402F-8019-12562E6EA33A}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "2.0"
+		Debug.AspNetCompiler.VirtualPath = "/sd_esa4"
+		Debug.AspNetCompiler.PhysicalPath = "sd_esa\sd_esa4\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\sd_esa4\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/sd_esa4"
+		Release.AspNetCompiler.PhysicalPath = "sd_esa\sd_esa4\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\sd_esa4\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "52287"
+	EndProjectSection
+	ProjectSection(ProjectDependencies) = postProject
+		{8710FD05-5227-4EF3-A326-60EA832F94EA} = {8710FD05-5227-4EF3-A326-60EA832F94EA}
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "sd_esa5", "sd_esa\sd_esa5", "{C1C1D3B6-2090-4800-A28F-F426F5726C57}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "2.0"
+		Debug.AspNetCompiler.VirtualPath = "/sd_esa5"
+		Debug.AspNetCompiler.PhysicalPath = "sd_esa\sd_esa5\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\sd_esa5\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/sd_esa5"
+		Release.AspNetCompiler.PhysicalPath = "sd_esa\sd_esa5\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\sd_esa5\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "52288"
+	EndProjectSection
+	ProjectSection(ProjectDependencies) = postProject
+		{8710FD05-5227-4EF3-A326-60EA832F94EA} = {8710FD05-5227-4EF3-A326-60EA832F94EA}
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "sd_esa6", "sd_esa\sd_esa6", "{453A81E7-3110-4827-B8EF-4081C295C3B3}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "2.0"
+		Debug.AspNetCompiler.VirtualPath = "/sd_esa6"
+		Debug.AspNetCompiler.PhysicalPath = "sd_esa\sd_esa6\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\sd_esa6\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/sd_esa6"
+		Release.AspNetCompiler.PhysicalPath = "sd_esa\sd_esa6\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\sd_esa6\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "52289"
+	EndProjectSection
+	ProjectSection(ProjectDependencies) = postProject
+		{8710FD05-5227-4EF3-A326-60EA832F94EA} = {8710FD05-5227-4EF3-A326-60EA832F94EA}
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "sd_esa7", "sd_esa\sd_esa7", "{60FA36D5-7F48-441D-A74C-13F697A9CD5D}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "2.0"
+		Debug.AspNetCompiler.VirtualPath = "/sd_esa7"
+		Debug.AspNetCompiler.PhysicalPath = "sd_esa\sd_esa7\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\sd_esa7\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/sd_esa7"
+		Release.AspNetCompiler.PhysicalPath = "sd_esa\sd_esa7\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\sd_esa7\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "52290"
+	EndProjectSection
+	ProjectSection(ProjectDependencies) = postProject
+		{8710FD05-5227-4EF3-A326-60EA832F94EA} = {8710FD05-5227-4EF3-A326-60EA832F94EA}
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "sd_sfsd", "sd_esa\sd_sfsd", "{FF0359D3-2093-4FA8-A9BE-EA67357318E6}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "2.0"
+		Debug.AspNetCompiler.VirtualPath = "/sd_sfsd"
+		Debug.AspNetCompiler.PhysicalPath = "sd_esa\sd_sfsd\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\sd_sfsd\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/sd_sfsd"
+		Release.AspNetCompiler.PhysicalPath = "sd_esa\sd_sfsd\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\sd_sfsd\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "52293"
+	EndProjectSection
+	ProjectSection(ProjectDependencies) = postProject
+		{8710FD05-5227-4EF3-A326-60EA832F94EA} = {8710FD05-5227-4EF3-A326-60EA832F94EA}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseLibrary", "Base\BaseLibrary\BaseLibrary.csproj", "{F92107C2-AC7E-45E2-A88F-EBB789D7F576}"
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 1
+		SccProjectUniqueName0 = sd_esa\\SDCodeBase\\SDCodeBase.csproj
+		SccProjectName0 = \u0022$/Front-Ends/Model\u0020Front-Ends/sd_esa/SDCodeBase\u0022,\u0020PYACAAAA
+		SccLocalPath0 = sd_esa\\SDCodeBase
+		SccProvider0 = MSSCCI:Microsoft\u0020Visual\u0020SourceSafe
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		ModelPresentation|Any CPU = ModelPresentation|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8710FD05-5227-4EF3-A326-60EA832F94EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8710FD05-5227-4EF3-A326-60EA832F94EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8710FD05-5227-4EF3-A326-60EA832F94EA}.ModelPresentation|Any CPU.ActiveCfg = Release|Any CPU
+		{8710FD05-5227-4EF3-A326-60EA832F94EA}.ModelPresentation|Any CPU.Build.0 = Release|Any CPU
+		{8710FD05-5227-4EF3-A326-60EA832F94EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8710FD05-5227-4EF3-A326-60EA832F94EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC39CDC8-A509-4EFA-A6D7-A969E6C47109}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC39CDC8-A509-4EFA-A6D7-A969E6C47109}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC39CDC8-A509-4EFA-A6D7-A969E6C47109}.ModelPresentation|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC39CDC8-A509-4EFA-A6D7-A969E6C47109}.ModelPresentation|Any CPU.Build.0 = Debug|Any CPU
+		{AC39CDC8-A509-4EFA-A6D7-A969E6C47109}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC39CDC8-A509-4EFA-A6D7-A969E6C47109}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{0A4E1C03-5778-42CC-A977-740EF83CAC28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A4E1C03-5778-42CC-A977-740EF83CAC28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A4E1C03-5778-42CC-A977-740EF83CAC28}.ModelPresentation|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A4E1C03-5778-42CC-A977-740EF83CAC28}.ModelPresentation|Any CPU.Build.0 = Debug|Any CPU
+		{0A4E1C03-5778-42CC-A977-740EF83CAC28}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A4E1C03-5778-42CC-A977-740EF83CAC28}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{68B955E3-EC7D-4E7E-9394-35A75AF9668C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68B955E3-EC7D-4E7E-9394-35A75AF9668C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68B955E3-EC7D-4E7E-9394-35A75AF9668C}.ModelPresentation|Any CPU.ActiveCfg = Debug|Any CPU
+		{68B955E3-EC7D-4E7E-9394-35A75AF9668C}.ModelPresentation|Any CPU.Build.0 = Debug|Any CPU
+		{68B955E3-EC7D-4E7E-9394-35A75AF9668C}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{68B955E3-EC7D-4E7E-9394-35A75AF9668C}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{A9D8D1DF-9D68-4AC3-A6C7-0250612CA2CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9D8D1DF-9D68-4AC3-A6C7-0250612CA2CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9D8D1DF-9D68-4AC3-A6C7-0250612CA2CF}.ModelPresentation|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9D8D1DF-9D68-4AC3-A6C7-0250612CA2CF}.ModelPresentation|Any CPU.Build.0 = Debug|Any CPU
+		{A9D8D1DF-9D68-4AC3-A6C7-0250612CA2CF}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9D8D1DF-9D68-4AC3-A6C7-0250612CA2CF}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{BDE62509-C56C-402F-8019-12562E6EA33A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDE62509-C56C-402F-8019-12562E6EA33A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDE62509-C56C-402F-8019-12562E6EA33A}.ModelPresentation|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDE62509-C56C-402F-8019-12562E6EA33A}.ModelPresentation|Any CPU.Build.0 = Debug|Any CPU
+		{BDE62509-C56C-402F-8019-12562E6EA33A}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDE62509-C56C-402F-8019-12562E6EA33A}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{C1C1D3B6-2090-4800-A28F-F426F5726C57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1C1D3B6-2090-4800-A28F-F426F5726C57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1C1D3B6-2090-4800-A28F-F426F5726C57}.ModelPresentation|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1C1D3B6-2090-4800-A28F-F426F5726C57}.ModelPresentation|Any CPU.Build.0 = Debug|Any CPU
+		{C1C1D3B6-2090-4800-A28F-F426F5726C57}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1C1D3B6-2090-4800-A28F-F426F5726C57}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{453A81E7-3110-4827-B8EF-4081C295C3B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{453A81E7-3110-4827-B8EF-4081C295C3B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{453A81E7-3110-4827-B8EF-4081C295C3B3}.ModelPresentation|Any CPU.ActiveCfg = Debug|Any CPU
+		{453A81E7-3110-4827-B8EF-4081C295C3B3}.ModelPresentation|Any CPU.Build.0 = Debug|Any CPU
+		{453A81E7-3110-4827-B8EF-4081C295C3B3}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{453A81E7-3110-4827-B8EF-4081C295C3B3}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{60FA36D5-7F48-441D-A74C-13F697A9CD5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60FA36D5-7F48-441D-A74C-13F697A9CD5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60FA36D5-7F48-441D-A74C-13F697A9CD5D}.ModelPresentation|Any CPU.ActiveCfg = Debug|Any CPU
+		{60FA36D5-7F48-441D-A74C-13F697A9CD5D}.ModelPresentation|Any CPU.Build.0 = Debug|Any CPU
+		{60FA36D5-7F48-441D-A74C-13F697A9CD5D}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{60FA36D5-7F48-441D-A74C-13F697A9CD5D}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{FF0359D3-2093-4FA8-A9BE-EA67357318E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF0359D3-2093-4FA8-A9BE-EA67357318E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF0359D3-2093-4FA8-A9BE-EA67357318E6}.ModelPresentation|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF0359D3-2093-4FA8-A9BE-EA67357318E6}.ModelPresentation|Any CPU.Build.0 = Debug|Any CPU
+		{FF0359D3-2093-4FA8-A9BE-EA67357318E6}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF0359D3-2093-4FA8-A9BE-EA67357318E6}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{F92107C2-AC7E-45E2-A88F-EBB789D7F576}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F92107C2-AC7E-45E2-A88F-EBB789D7F576}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F92107C2-AC7E-45E2-A88F-EBB789D7F576}.ModelPresentation|Any CPU.ActiveCfg = ModelPresentation|Any CPU
+		{F92107C2-AC7E-45E2-A88F-EBB789D7F576}.ModelPresentation|Any CPU.Build.0 = ModelPresentation|Any CPU
+		{F92107C2-AC7E-45E2-A88F-EBB789D7F576}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F92107C2-AC7E-45E2-A88F-EBB789D7F576}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

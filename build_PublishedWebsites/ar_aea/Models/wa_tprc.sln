@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "wa_tprc", "wa_esd112\wa_tprc", "{43EFDFFC-DCFC-48A2-BD70-B331EAB164A2}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "2.0"
+		ProjectReferences = "{F92107C2-AC7E-45E2-A88F-EBB789D7F576}|escWebBase.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/wa_tprc"
+		Debug.AspNetCompiler.PhysicalPath = "wa_esd112\wa_tprc\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\wa_tprc\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/wa_tprc"
+		Release.AspNetCompiler.PhysicalPath = "wa_esd112\wa_tprc\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\wa_tprc\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "52746"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseLibrary", "Base\BaseLibrary\BaseLibrary.csproj", "{F92107C2-AC7E-45E2-A88F-EBB789D7F576}"
+EndProject
+Project("{4F174C21-8C12-11D0-8340-0000F80270F8}") = "wa_esd112Db", "wa_esd112\wa_esd112Db\wa_esd112Db.dbp", "{28CDEE93-3010-4CD3-9DC8-81E3C82B8513}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		ModelPresentation|Any CPU = ModelPresentation|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43EFDFFC-DCFC-48A2-BD70-B331EAB164A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43EFDFFC-DCFC-48A2-BD70-B331EAB164A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43EFDFFC-DCFC-48A2-BD70-B331EAB164A2}.ModelPresentation|Any CPU.ActiveCfg = Debug|Any CPU
+		{43EFDFFC-DCFC-48A2-BD70-B331EAB164A2}.ModelPresentation|Any CPU.Build.0 = Debug|Any CPU
+		{43EFDFFC-DCFC-48A2-BD70-B331EAB164A2}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{43EFDFFC-DCFC-48A2-BD70-B331EAB164A2}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{F92107C2-AC7E-45E2-A88F-EBB789D7F576}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F92107C2-AC7E-45E2-A88F-EBB789D7F576}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F92107C2-AC7E-45E2-A88F-EBB789D7F576}.ModelPresentation|Any CPU.ActiveCfg = ModelPresentation|Any CPU
+		{F92107C2-AC7E-45E2-A88F-EBB789D7F576}.ModelPresentation|Any CPU.Build.0 = ModelPresentation|Any CPU
+		{F92107C2-AC7E-45E2-A88F-EBB789D7F576}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F92107C2-AC7E-45E2-A88F-EBB789D7F576}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

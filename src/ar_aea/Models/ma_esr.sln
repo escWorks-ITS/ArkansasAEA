@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseLibrary", "Base\BaseLibrary\BaseLibrary.csproj", "{F92107C2-AC7E-45E2-A88F-EBB789D7F576}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ma_esr", "ma_esr\ma_esr", "{EC6E817E-747F-4C16-9B05-2EC06B4CDB3C}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "2.0"
+		ProjectReferences = "{F92107C2-AC7E-45E2-A88F-EBB789D7F576}|escWebBase.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/ma_esr"
+		Debug.AspNetCompiler.PhysicalPath = "ma_esr\ma_esr\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\ma_esr\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/ma_esr"
+		Release.AspNetCompiler.PhysicalPath = "ma_esr\ma_esr\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\ma_esr\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "52193"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		ModelPresentation|Any CPU = ModelPresentation|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F92107C2-AC7E-45E2-A88F-EBB789D7F576}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F92107C2-AC7E-45E2-A88F-EBB789D7F576}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F92107C2-AC7E-45E2-A88F-EBB789D7F576}.ModelPresentation|Any CPU.ActiveCfg = ModelPresentation|Any CPU
+		{F92107C2-AC7E-45E2-A88F-EBB789D7F576}.ModelPresentation|Any CPU.Build.0 = ModelPresentation|Any CPU
+		{F92107C2-AC7E-45E2-A88F-EBB789D7F576}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F92107C2-AC7E-45E2-A88F-EBB789D7F576}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC6E817E-747F-4C16-9B05-2EC06B4CDB3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC6E817E-747F-4C16-9B05-2EC06B4CDB3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC6E817E-747F-4C16-9B05-2EC06B4CDB3C}.ModelPresentation|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC6E817E-747F-4C16-9B05-2EC06B4CDB3C}.ModelPresentation|Any CPU.Build.0 = Debug|Any CPU
+		{EC6E817E-747F-4C16-9B05-2EC06B4CDB3C}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC6E817E-747F-4C16-9B05-2EC06B4CDB3C}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

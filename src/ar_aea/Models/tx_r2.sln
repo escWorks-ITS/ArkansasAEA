@@ -1,0 +1,96 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseLibrary", "Base\BaseLibrary\BaseLibrary.csproj", "{F92107C2-AC7E-45E2-A88F-EBB789D7F576}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "tx_r2", "tx_r2", "{B2CA88EA-2466-446A-BCC7-5738AC7EC0DC}"
+	ProjectSection(WebsiteProperties) = preProject
+		SccProjectName = ""$/Front-Ends/Models/tx_r2", JDGHAAAA"
+		SccAuxPath = ""
+		SccLocalPath = "."
+		SccProvider = "MSSCCI:Microsoft Visual SourceSafe"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7.2"
+		ProjectReferences = "{F92107C2-AC7E-45E2-A88F-EBB789D7F576}|escWebBase.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/tx_r2"
+		Debug.AspNetCompiler.PhysicalPath = "tx_r2\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\tx_r2\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/tx_r2"
+		Release.AspNetCompiler.PhysicalPath = "tx_r2\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\tx_r2\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "32723"
+		SlnRelativePath = "tx_r2\"
+	EndProjectSection
+	ProjectSection(WebsiteProperties) = preProject
+		SccProjectName = ""$/Front-Ends/Models/tx_r2", JDGHAAAA"
+		SccAuxPath = ""
+		SccLocalPath = "."
+		SccProvider = "MSSCCI:Microsoft Visual SourceSafe"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.1"
+		ProjectReferences = "{F92107C2-AC7E-45E2-A88F-EBB789D7F576}|escWebBase.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/tx_r2"
+		Debug.AspNetCompiler.PhysicalPath = "tx_r2\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\tx_r2\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/tx_r2"
+		Release.AspNetCompiler.PhysicalPath = "tx_r2\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\tx_r2\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "32723"
+		SlnRelativePath = "tx_r2\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		ModelPresentation|Any CPU = ModelPresentation|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F92107C2-AC7E-45E2-A88F-EBB789D7F576}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F92107C2-AC7E-45E2-A88F-EBB789D7F576}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F92107C2-AC7E-45E2-A88F-EBB789D7F576}.ModelPresentation|Any CPU.ActiveCfg = ModelPresentation|Any CPU
+		{F92107C2-AC7E-45E2-A88F-EBB789D7F576}.ModelPresentation|Any CPU.Build.0 = ModelPresentation|Any CPU
+		{F92107C2-AC7E-45E2-A88F-EBB789D7F576}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F92107C2-AC7E-45E2-A88F-EBB789D7F576}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2CA88EA-2466-446A-BCC7-5738AC7EC0DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2CA88EA-2466-446A-BCC7-5738AC7EC0DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2CA88EA-2466-446A-BCC7-5738AC7EC0DC}.ModelPresentation|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2CA88EA-2466-446A-BCC7-5738AC7EC0DC}.ModelPresentation|Any CPU.Build.0 = Debug|Any CPU
+		{B2CA88EA-2466-446A-BCC7-5738AC7EC0DC}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2CA88EA-2466-446A-BCC7-5738AC7EC0DC}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EAC0F019-DBCF-4B5D-8214-D65366CC137F}
+	EndGlobalSection
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 3
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Base\\BaseLibrary\\BaseLibrary.csproj
+		SccProjectName1 = \u0022$/Front-Ends/Models/Base/BaseLibrary\u0022,\u0020HOKEAAAA
+		SccLocalPath1 = Base\\BaseLibrary
+		SccWebProject2 = true
+		SccProjectUniqueName2 = tx_r2
+		SccProjectName2 = \u0022$/Front-Ends/Models/tx_r2\u0022,\u0020JDGHAAAA
+		SccLocalPath2 = C:\\Projects\\Front-Ends\\Models\\tx_r2
+		SccProjectEnlistmentChoice2 = 2
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,72 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "tx_esc_04(1)", "tx_esc_04", "{6DB30C5F-EE16-4DA4-BB6E-EF7B1CFA162E}"
+	ProjectSection(WebsiteProperties) = preProject
+		SccProjectName = ""$/Front-Ends/Models/tx_esc_04", DPDIAAAA"
+		SccAuxPath = ""
+		SccLocalPath = "."
+		SccProvider = "MSSCCI:Microsoft Visual SourceSafe"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7.2"
+		ProjectReferences = ""
+		Debug.AspNetCompiler.VirtualPath = "/tx_esc_04"
+		Debug.AspNetCompiler.PhysicalPath = "tx_esc_04\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\tx_esc_04\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/tx_esc_04"
+		Release.AspNetCompiler.PhysicalPath = "tx_esc_04\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\tx_esc_04\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "20640"
+		SlnRelativePath = "tx_esc_04\"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseLibrary", "Base\BaseLibrary\BaseLibrary.csproj", "{F92107C2-AC7E-45E2-A88F-EBB789D7F576}"
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 3
+		SccLocalPath0 = .
+		SccWebProject1 = true
+		SccProjectUniqueName1 = tx_esc_04
+		SccProjectName1 = \u0022$/Front-Ends/Models/tx_esc_04\u0022,\u0020DPDIAAAA
+		SccLocalPath1 = C:\\Projects\\Front-Ends\\Models\\tx_esc_04
+		SccProjectEnlistmentChoice1 = 2
+		SccProjectUniqueName2 = Base\\BaseLibrary\\BaseLibrary.csproj
+		SccProjectName2 = \u0022$/Front-Ends/Models/Base/BaseLibrary\u0022,\u0020HOKEAAAA
+		SccLocalPath2 = Base\\BaseLibrary
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		ModelPresentation|Any CPU = ModelPresentation|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DB30C5F-EE16-4DA4-BB6E-EF7B1CFA162E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DB30C5F-EE16-4DA4-BB6E-EF7B1CFA162E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DB30C5F-EE16-4DA4-BB6E-EF7B1CFA162E}.ModelPresentation|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DB30C5F-EE16-4DA4-BB6E-EF7B1CFA162E}.ModelPresentation|Any CPU.Build.0 = Debug|Any CPU
+		{6DB30C5F-EE16-4DA4-BB6E-EF7B1CFA162E}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DB30C5F-EE16-4DA4-BB6E-EF7B1CFA162E}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{F92107C2-AC7E-45E2-A88F-EBB789D7F576}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F92107C2-AC7E-45E2-A88F-EBB789D7F576}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F92107C2-AC7E-45E2-A88F-EBB789D7F576}.ModelPresentation|Any CPU.ActiveCfg = ModelPresentation|Any CPU
+		{F92107C2-AC7E-45E2-A88F-EBB789D7F576}.ModelPresentation|Any CPU.Build.0 = ModelPresentation|Any CPU
+		{F92107C2-AC7E-45E2-A88F-EBB789D7F576}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F92107C2-AC7E-45E2-A88F-EBB789D7F576}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63088EC8-1307-4B86-84CA-AF969A191C00}
+	EndGlobalSection
+EndGlobal

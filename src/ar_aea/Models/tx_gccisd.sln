@@ -1,0 +1,68 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "tx_gccisd", "tx_gccisd", "{11AE24F0-9108-44D5-B417-D7A50624719E}"
+	ProjectSection(WebsiteProperties) = preProject
+		SccProjectName = ""$/Front-Ends/Models/tx_gccisd", SXVGAAAA"
+		SccAuxPath = ""
+		SccLocalPath = ".."
+		SccProvider = "MSSCCI:Microsoft Visual SourceSafe"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv3.5"
+		ProjectReferences = "{F92107C2-AC7E-45E2-A88F-EBB789D7F576}|escWebBase.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/tx_gccisd"
+		Debug.AspNetCompiler.PhysicalPath = "tx_gccisd\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\tx_gccisd\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/tx_gccisd"
+		Release.AspNetCompiler.PhysicalPath = "tx_gccisd\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\tx_gccisd\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "3809"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseLibrary", "Base\BaseLibrary\BaseLibrary.csproj", "{F92107C2-AC7E-45E2-A88F-EBB789D7F576}"
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 2
+		SccWebProject0 = true
+		SccProjectUniqueName0 = tx_gccisd
+		SccProjectName0 = \u0022$/Front-Ends/Models/tx_gccisd\u0022,\u0020SXVGAAAA
+		SccLocalPath0 = .
+		SccProvider0 = MSSCCI:Microsoft\u0020Visual\u0020SourceSafe
+		SccProjectFilePathRelativizedFromConnection0 = tx_gccisd\\
+		SccProjectEnlistmentChoice0 = 2
+		SccProjectUniqueName1 = Base\\BaseLibrary\\BaseLibrary.csproj
+		SccProjectName1 = \u0022$/Front-Ends/Models/Base/BaseLibrary\u0022,\u0020HOKEAAAA
+		SccLocalPath1 = Base\\BaseLibrary
+		SccProvider1 = MSSCCI:Microsoft\u0020Visual\u0020SourceSafe
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		ModelPresentation|Any CPU = ModelPresentation|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11AE24F0-9108-44D5-B417-D7A50624719E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11AE24F0-9108-44D5-B417-D7A50624719E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11AE24F0-9108-44D5-B417-D7A50624719E}.ModelPresentation|Any CPU.ActiveCfg = Debug|Any CPU
+		{11AE24F0-9108-44D5-B417-D7A50624719E}.ModelPresentation|Any CPU.Build.0 = Debug|Any CPU
+		{11AE24F0-9108-44D5-B417-D7A50624719E}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{11AE24F0-9108-44D5-B417-D7A50624719E}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{F92107C2-AC7E-45E2-A88F-EBB789D7F576}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F92107C2-AC7E-45E2-A88F-EBB789D7F576}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F92107C2-AC7E-45E2-A88F-EBB789D7F576}.ModelPresentation|Any CPU.ActiveCfg = ModelPresentation|Any CPU
+		{F92107C2-AC7E-45E2-A88F-EBB789D7F576}.ModelPresentation|Any CPU.Build.0 = ModelPresentation|Any CPU
+		{F92107C2-AC7E-45E2-A88F-EBB789D7F576}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F92107C2-AC7E-45E2-A88F-EBB789D7F576}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

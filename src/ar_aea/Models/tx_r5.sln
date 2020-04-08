@@ -1,0 +1,69 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseLibrary", "Base\BaseLibrary\BaseLibrary.csproj", "{F92107C2-AC7E-45E2-A88F-EBB789D7F576}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "tx_r5", "tx_r5", "{F55418B9-7904-4370-9EA1-698357B6C616}"
+	ProjectSection(WebsiteProperties) = preProject
+		SccProjectName = ""$/Front-Ends/Models/tx_r5", ZNQJAAAA"
+		SccAuxPath = ""
+		SccLocalPath = "."
+		SccProvider = "MSSCCI:Microsoft Visual SourceSafe"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		ProjectReferences = "{F92107C2-AC7E-45E2-A88F-EBB789D7F576}|escWebBase.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/tx_r5"
+		Debug.AspNetCompiler.PhysicalPath = "tx_r5\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\tx_r5\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "true"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/tx_r5"
+		Release.AspNetCompiler.PhysicalPath = "tx_r5\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\tx_r5\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "true"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "60043"
+		SlnRelativePath = "tx_r5\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 3
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Base\\BaseLibrary\\BaseLibrary.csproj
+		SccProjectName1 = \u0022$/Front-Ends/Models/Base/BaseLibrary\u0022,\u0020HOKEAAAA
+		SccLocalPath1 = Base\\BaseLibrary
+		SccWebProject2 = true
+		SccProjectUniqueName2 = tx_r5
+		SccProjectName2 = \u0022$/Front-Ends/Models/tx_r5\u0022,\u0020ZNQJAAAA
+		SccLocalPath2 = C:\\Front-Ends\\Models\\tx_r5
+		SccProjectEnlistmentChoice2 = 2
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		ModelPresentation|Any CPU = ModelPresentation|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F92107C2-AC7E-45E2-A88F-EBB789D7F576}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F92107C2-AC7E-45E2-A88F-EBB789D7F576}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F92107C2-AC7E-45E2-A88F-EBB789D7F576}.ModelPresentation|Any CPU.ActiveCfg = ModelPresentation|Any CPU
+		{F92107C2-AC7E-45E2-A88F-EBB789D7F576}.ModelPresentation|Any CPU.Build.0 = ModelPresentation|Any CPU
+		{F92107C2-AC7E-45E2-A88F-EBB789D7F576}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F92107C2-AC7E-45E2-A88F-EBB789D7F576}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F55418B9-7904-4370-9EA1-698357B6C616}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F55418B9-7904-4370-9EA1-698357B6C616}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F55418B9-7904-4370-9EA1-698357B6C616}.ModelPresentation|Any CPU.ActiveCfg = Debug|Any CPU
+		{F55418B9-7904-4370-9EA1-698357B6C616}.ModelPresentation|Any CPU.Build.0 = Debug|Any CPU
+		{F55418B9-7904-4370-9EA1-698357B6C616}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{F55418B9-7904-4370-9EA1-698357B6C616}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

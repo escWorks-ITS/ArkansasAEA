@@ -1,0 +1,69 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "oh_hcesc", "oh_hcesc", "{8E563550-9308-4830-BD98-3389959862AA}"
+	ProjectSection(WebsiteProperties) = preProject
+		SccProjectName = ""$/Front-Ends/Models/oh_hcesc", LIOIAAAA"
+		SccAuxPath = ""
+		SccLocalPath = "."
+		SccProvider = "MSSCCI:Microsoft Visual SourceSafe"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.1"
+		ProjectReferences = "{F92107C2-AC7E-45E2-A88F-EBB789D7F576}|escWebBase.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/oh_hcesc"
+		Debug.AspNetCompiler.PhysicalPath = "oh_hcesc\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\oh_hcesc\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/oh_hcesc"
+		Release.AspNetCompiler.PhysicalPath = "oh_hcesc\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\oh_hcesc\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "60256"
+		SlnRelativePath = "oh_hcesc\"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseLibrary", "..\Base\BaseLibrary\BaseLibrary.csproj", "{F92107C2-AC7E-45E2-A88F-EBB789D7F576}"
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 3
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ..\\Base\\BaseLibrary\\BaseLibrary.csproj
+		SccProjectName1 = \u0022$/Front-Ends/Models/Base/BaseLibrary\u0022,\u0020HOKEAAAA
+		SccLocalPath1 = ..\\Base\\BaseLibrary
+		SccWebProject2 = true
+		SccProjectUniqueName2 = oh_hcesc
+		SccProjectName2 = \u0022$/Front-Ends/Models/oh_hcesc\u0022,\u0020LIOIAAAA
+		SccLocalPath2 = C:\\Projects\\Front-Ends\\Models\\oh_hcesc
+		SccProjectEnlistmentChoice2 = 2
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		ModelPresentation|Any CPU = ModelPresentation|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E563550-9308-4830-BD98-3389959862AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E563550-9308-4830-BD98-3389959862AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E563550-9308-4830-BD98-3389959862AA}.ModelPresentation|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E563550-9308-4830-BD98-3389959862AA}.ModelPresentation|Any CPU.Build.0 = Debug|Any CPU
+		{8E563550-9308-4830-BD98-3389959862AA}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E563550-9308-4830-BD98-3389959862AA}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{F92107C2-AC7E-45E2-A88F-EBB789D7F576}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F92107C2-AC7E-45E2-A88F-EBB789D7F576}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F92107C2-AC7E-45E2-A88F-EBB789D7F576}.ModelPresentation|Any CPU.ActiveCfg = ModelPresentation|Any CPU
+		{F92107C2-AC7E-45E2-A88F-EBB789D7F576}.ModelPresentation|Any CPU.Build.0 = ModelPresentation|Any CPU
+		{F92107C2-AC7E-45E2-A88F-EBB789D7F576}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F92107C2-AC7E-45E2-A88F-EBB789D7F576}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

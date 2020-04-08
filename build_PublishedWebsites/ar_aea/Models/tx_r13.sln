@@ -1,0 +1,67 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "tx_r13", "tx_r13", "{8CF6A822-0030-4C17-A2C7-3836FB6D35D9}"
+	ProjectSection(WebsiteProperties) = preProject
+		SccProjectName = ""$/Front-Ends/Models/tx_r13", ZOVHAAAA"
+		SccAuxPath = ""
+		SccLocalPath = "."
+		SccProvider = "MSSCCI:Microsoft Visual SourceSafe"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv3.5"
+		ProjectReferences = "{F92107C2-AC7E-45E2-A88F-EBB789D7F576}|escWebBase.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/tx_r13"
+		Debug.AspNetCompiler.PhysicalPath = "tx_r13\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\tx_r13\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/tx_r13"
+		Release.AspNetCompiler.PhysicalPath = "tx_r13\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\tx_r13\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "15731"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseLibrary", "..\Base\BaseLibrary\BaseLibrary.csproj", "{F92107C2-AC7E-45E2-A88F-EBB789D7F576}"
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 2
+		SccProjectUniqueName0 = ..\\Base\\BaseLibrary\\BaseLibrary.csproj
+		SccProjectName0 = \u0022$/Front-Ends/Models/Base/BaseLibrary\u0022,\u0020HOKEAAAA
+		SccLocalPath0 = ..\\Base\\BaseLibrary
+		SccProvider0 = MSSCCI:Microsoft\u0020Visual\u0020SourceSafe
+		SccWebProject1 = true
+		SccProjectUniqueName1 = tx_r13
+		SccProjectName1 = \u0022$/Front-Ends/Models/tx_r13\u0022,\u0020ZOVHAAAA
+		SccLocalPath1 = C:\\My\u0020Projects\\Front-Ends\\Models\\tx_r13
+		SccProvider1 = MSSCCI:Microsoft\u0020Visual\u0020SourceSafe
+		SccProjectEnlistmentChoice1 = 2
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		ModelPresentation|Any CPU = ModelPresentation|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CF6A822-0030-4C17-A2C7-3836FB6D35D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CF6A822-0030-4C17-A2C7-3836FB6D35D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CF6A822-0030-4C17-A2C7-3836FB6D35D9}.ModelPresentation|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CF6A822-0030-4C17-A2C7-3836FB6D35D9}.ModelPresentation|Any CPU.Build.0 = Debug|Any CPU
+		{8CF6A822-0030-4C17-A2C7-3836FB6D35D9}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CF6A822-0030-4C17-A2C7-3836FB6D35D9}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{F92107C2-AC7E-45E2-A88F-EBB789D7F576}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F92107C2-AC7E-45E2-A88F-EBB789D7F576}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F92107C2-AC7E-45E2-A88F-EBB789D7F576}.ModelPresentation|Any CPU.ActiveCfg = ModelPresentation|Any CPU
+		{F92107C2-AC7E-45E2-A88F-EBB789D7F576}.ModelPresentation|Any CPU.Build.0 = ModelPresentation|Any CPU
+		{F92107C2-AC7E-45E2-A88F-EBB789D7F576}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F92107C2-AC7E-45E2-A88F-EBB789D7F576}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

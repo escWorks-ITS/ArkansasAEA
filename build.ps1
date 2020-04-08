@@ -1,6 +1,6 @@
 . .\BuildFunctions.ps1
 $startTime = 
-$projectName = "Region19"
+$projectName = "ar_aea"
 $base_dir = resolve-path .\
 $source_dir = "$base_dir\src"
 $unitTestProjectPath = "$source_dir\UnitTests"
